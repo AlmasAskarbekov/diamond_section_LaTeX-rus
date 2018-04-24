@@ -1,0 +1,673 @@
+This is pdfTeX, Version 3.14159265-2.6-1.40.19 (MiKTeX 2.9.6630 64-bit) (preloaded format=pdflatex 2018.4.6)  24 APR 2018 06:44
+entering extended mode
+**./diamond_section.tex
+(diamond_section.tex
+LaTeX2e <2017-04-15>
+Babel <3.18> and hyphenation patterns for 75 language(s) loaded.
+(E:\Latex\miktex\tex\latex\base\report.cls
+Document Class: report 2014/09/29 v1.4h Standard LaTeX document class
+(E:\Latex\miktex\tex\latex\base\size12.clo
+File: size12.clo 2014/09/29 v1.4h Standard LaTeX file (size option)
+)
+\c@part=\count79
+\c@chapter=\count80
+\c@section=\count81
+\c@subsection=\count82
+\c@subsubsection=\count83
+\c@paragraph=\count84
+\c@subparagraph=\count85
+\c@figure=\count86
+\c@table=\count87
+\abovecaptionskip=\skip41
+\belowcaptionskip=\skip42
+\bibindent=\dimen102
+)
+(E:\Latex\miktex\tex\latex\geometry\geometry.sty
+Package: geometry 2010/09/12 v5.6 Page Geometry
+
+(E:\Latex\miktex\tex\latex\graphics\keyval.sty
+Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
+\KV@toks@=\toks14
+)
+(E:\Latex\miktex\tex\generic\oberdiek\ifpdf.sty
+Package: ifpdf 2017/03/15 v3.2 Provides the ifpdf switch
+)
+(E:\Latex\miktex\tex\generic\oberdiek\ifvtex.sty
+Package: ifvtex 2016/05/16 v1.6 Detect VTeX and its facilities (HO)
+Package ifvtex Info: VTeX not detected.
+)
+(E:\Latex\miktex\tex\generic\ifxetex\ifxetex.sty
+Package: ifxetex 2010/09/12 v0.6 Provides ifxetex conditional
+)
+\Gm@cnth=\count88
+\Gm@cntv=\count89
+\c@Gm@tempcnt=\count90
+\Gm@bindingoffset=\dimen103
+\Gm@wd@mp=\dimen104
+\Gm@odd@mp=\dimen105
+\Gm@even@mp=\dimen106
+\Gm@layoutwidth=\dimen107
+\Gm@layoutheight=\dimen108
+\Gm@layouthoffset=\dimen109
+\Gm@layoutvoffset=\dimen110
+\Gm@dimlist=\toks15
+
+(E:\Latex\miktex\tex\latex\geometry\geometry.cfg))
+(E:\Latex\miktex\tex\latex\base\inputenc.sty
+Package: inputenc 2015/03/17 v1.2c Input encoding file
+\inpenc@prehook=\toks16
+\inpenc@posthook=\toks17
+
+(E:\Latex\miktex\tex\latex\ucs\utf8x.def
+File: utf8x.def 2004/10/17 UCS: Input encoding UTF-8
+))
+(E:\Latex\miktex\tex\latex\ucs\ucs.sty
+Package: ucs 2013/05/11 v2.2 UCS: Unicode input support
+
+(E:\Latex\miktex\tex\latex\ucs\uni-global.def
+File: uni-global.def 2013/05/13 UCS: Unicode global data
+)
+\uc@secondtry=\count91
+\uc@combtoks=\toks18
+\uc@combtoksb=\toks19
+\uc@temptokena=\toks20
+)
+(E:\Latex\miktex\tex\latex\base\fontenc.sty
+Package: fontenc 2017/04/05 v2.0i Standard LaTeX package
+
+(E:\Latex\miktex\tex\latex\cyrillic\t2aenc.def
+File: t2aenc.def 2005/09/27 v1.0i Cyrillic encoding definition file
+)
+LaTeX Font Info:    Try loading font information for T2A+cmr on input line 105.
+
+
+(E:\Latex\miktex\tex\latex\cyrillic\t2acmr.fd
+File: t2acmr.fd 2001/08/11 v1.0a Computer Modern Cyrillic font definitions
+))
+(E:\Latex\miktex\tex\generic\babel\babel.sty
+Package: babel 2018/02/14 3.18 The Babel package
+
+(E:\Latex\miktex\tex\generic\babel\switch.def
+File: switch.def 2018/02/14 3.18 Babel switching mechanism
+)
+*************************************
+* Local config file bblopts.cfg used
+*
+(E:\Latex\miktex\tex\latex\arabi\bblopts.cfg
+File: bblopts.cfg 2005/09/08 v0.1 add Arabic and Farsi to "declared" options of
+ babel
+)
+(E:\Latex\miktex\tex\latex\babel-english\english.ldf
+Language: english 2017/06/06 v3.3r English support from the babel system
+
+(E:\Latex\miktex\tex\generic\babel\babel.def
+File: babel.def 2018/02/14 3.18 Babel common definitions
+\babel@savecnt=\count92
+\U@D=\dimen111
+
+(E:\Latex\miktex\tex\generic\babel\txtbabel.def)
+\bbl@dirlevel=\count93
+)
+\l@canadian = a dialect from \language\l@american 
+\l@australian = a dialect from \language\l@british 
+\l@newzealand = a dialect from \language\l@british 
+)
+(E:\Latex\miktex\tex\latex\babel-russian\russianb.ldf
+Language: russian 2017/08/12 1.3j Russian support for the Babel system
+Package babel Info: Making " an active character on input line 120.
+Package babel Info: Default for \cyrdash is provided on input line 157.
+))
+(E:\Latex\miktex\tex\latex\amsfonts\euscript.sty
+Package: euscript 2009/06/22 v3.00 Euler Script fonts
+LaTeX Font Info:    Overwriting math alphabet `\EuScript' in version `bold'
+(Font)                  U/eus/m/n --> U/eus/b/n on input line 33.
+)
+(E:\Latex\miktex\tex\latex\jknappen\mathrsfs.sty
+Package: mathrsfs 1996/01/01 Math RSFS package v1.0 (jk)
+\symrsfs=\mathgroup4
+)
+(E:\Latex\miktex\tex\latex\amsfonts\amssymb.sty
+Package: amssymb 2013/01/14 v3.01 AMS font symbols
+
+(E:\Latex\miktex\tex\latex\amsfonts\amsfonts.sty
+Package: amsfonts 2013/01/14 v3.01 Basic AMSFonts support
+\@emptytoks=\toks21
+\symAMSa=\mathgroup5
+\symAMSb=\mathgroup6
+LaTeX Font Info:    Overwriting math alphabet `\mathfrak' in version `bold'
+(Font)                  U/euf/m/n --> U/euf/b/n on input line 106.
+))
+(E:\Latex\miktex\tex\latex\amsmath\amsmath.sty
+Package: amsmath 2017/09/02 v2.17a AMS math features
+\@mathmargin=\skip43
+
+For additional information on amsmath, use the `?' option.
+(E:\Latex\miktex\tex\latex\amsmath\amstext.sty
+Package: amstext 2000/06/29 v2.01 AMS text
+
+(E:\Latex\miktex\tex\latex\amsmath\amsgen.sty
+File: amsgen.sty 1999/11/30 v2.0 generic functions
+\@emptytoks=\toks22
+\ex@=\dimen112
+))
+(E:\Latex\miktex\tex\latex\amsmath\amsbsy.sty
+Package: amsbsy 1999/11/29 v1.2d Bold Symbols
+\pmbraise@=\dimen113
+)
+(E:\Latex\miktex\tex\latex\amsmath\amsopn.sty
+Package: amsopn 2016/03/08 v2.02 operator names
+)
+\inf@bad=\count94
+LaTeX Info: Redefining \frac on input line 213.
+\uproot@=\count95
+\leftroot@=\count96
+LaTeX Info: Redefining \overline on input line 375.
+\classnum@=\count97
+\DOTSCASE@=\count98
+LaTeX Info: Redefining \ldots on input line 472.
+LaTeX Info: Redefining \dots on input line 475.
+LaTeX Info: Redefining \cdots on input line 596.
+\Mathstrutbox@=\box26
+\strutbox@=\box27
+\big@size=\dimen114
+LaTeX Font Info:    Redeclaring font encoding OML on input line 712.
+LaTeX Font Info:    Redeclaring font encoding OMS on input line 713.
+\macc@depth=\count99
+\c@MaxMatrixCols=\count100
+\dotsspace@=\muskip10
+\c@parentequation=\count101
+\dspbrk@lvl=\count102
+\tag@help=\toks23
+\row@=\count103
+\column@=\count104
+\maxfields@=\count105
+\andhelp@=\toks24
+\eqnshift@=\dimen115
+\alignsep@=\dimen116
+\tagshift@=\dimen117
+\tagwidth@=\dimen118
+\totwidth@=\dimen119
+\lineht@=\dimen120
+\@envbody=\toks25
+\multlinegap=\skip44
+\multlinetaggap=\skip45
+\mathdisplay@stack=\toks26
+LaTeX Info: Redefining \[ on input line 2817.
+LaTeX Info: Redefining \] on input line 2818.
+)
+(E:\Latex\miktex\tex\latex\t2\mathtext.sty
+Package: mathtext 1999/01/28 v1.0 transparent text-and-math defs
+LaTeX Info: Redefining \halign on input line 111.
+)
+(E:\Latex\miktex\tex\latex\cmap\cmap.sty
+Package: cmap 2008/03/06 v1.0h CMap support: searchable PDF
+
+
+Package cmap Warning: fontenc already loaded - some fonts may be unprocessed.
+
+) (E:\Latex\miktex\tex\latex\was\gensymb.sty
+Package: gensymb 2003/07/02 v1.0 (WaS)
+)
+(E:\Latex\miktex\tex\latex\fancyhdr\fancyhdr.sty
+Package: fancyhdr 2017/06/30 v3.9a Extensive control of page headers and footer
+s
+\f@nch@headwidth=\skip46
+\f@nch@O@elh=\skip47
+\f@nch@O@erh=\skip48
+\f@nch@O@olh=\skip49
+\f@nch@O@orh=\skip50
+\f@nch@O@elf=\skip51
+\f@nch@O@erf=\skip52
+\f@nch@O@olf=\skip53
+\f@nch@O@orf=\skip54
+)
+(E:\Latex\miktex\tex\latex\graphics\graphicx.sty
+Package: graphicx 2017/06/01 v1.1a Enhanced LaTeX Graphics (DPC,SPQR)
+
+(E:\Latex\miktex\tex\latex\graphics\graphics.sty
+Package: graphics 2017/06/25 v1.2c Standard LaTeX Graphics (DPC,SPQR)
+
+(E:\Latex\miktex\tex\latex\graphics\trig.sty
+Package: trig 2016/01/03 v1.10 sin cos tan (DPC)
+)
+(E:\Latex\miktex\tex\latex\graphics-cfg\graphics.cfg
+File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
+)
+Package graphics Info: Driver file: pdftex.def on input line 99.
+
+(E:\Latex\miktex\tex\latex\graphics-def\pdftex.def
+File: pdftex.def 2018/01/08 v1.0l Graphics/color driver for pdftex
+))
+\Gin@req@height=\dimen121
+\Gin@req@width=\dimen122
+)
+(E:\Latex\miktex\tex\latex\caption\subcaption.sty
+Package: subcaption 2016/05/22 v1.1-161 Sub-captions (AR)
+
+(E:\Latex\miktex\tex\latex\caption\caption.sty
+Package: caption 2016/02/21 v3.3-144 Customizing captions (AR)
+
+(E:\Latex\miktex\tex\latex\caption\caption3.sty
+Package: caption3 2016/05/22 v1.7-166 caption3 kernel (AR)
+Package caption3 Info: TeX engine: e-TeX on input line 67.
+\captionmargin=\dimen123
+\captionmargin@=\dimen124
+\captionwidth=\dimen125
+\caption@tempdima=\dimen126
+\caption@indent=\dimen127
+\caption@parindent=\dimen128
+\caption@hangindent=\dimen129
+)
+\c@ContinuedFloat=\count106
+)
+\c@subfigure=\count107
+\c@subtable=\count108
+)
+(E:\Latex\miktex\tex\latex\url\url.sty
+\Urlmuskip=\muskip11
+Package: url 2013/09/16  ver 3.4  Verb mode for urls, etc.
+)
+(E:\Latex\miktex\tex\latex\float\float.sty
+Package: float 2001/11/08 v1.3d Float enhancements (AL)
+\c@float@type=\count109
+\float@exts=\toks27
+\float@box=\box28
+\@float@everytoks=\toks28
+\@floatcapt=\box29
+)
+(E:\Latex\miktex\tex\latex\appendix\appendix.sty
+Package: appendix 2009/09/02 v1.2b extra appendix facilities
+\c@@pps=\count110
+\c@@ppsavesec=\count111
+\c@@ppsaveapp=\count112
+) (diamond_section.aux)
+\openout1 = `diamond_section.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 50.
+LaTeX Font Info:    ... okay on input line 50.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 50.
+LaTeX Font Info:    ... okay on input line 50.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 50.
+LaTeX Font Info:    ... okay on input line 50.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 50.
+LaTeX Font Info:    ... okay on input line 50.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 50.
+LaTeX Font Info:    ... okay on input line 50.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 50.
+LaTeX Font Info:    ... okay on input line 50.
+LaTeX Font Info:    Checking defaults for T2A/cmr/m/n on input line 50.
+LaTeX Font Info:    ... okay on input line 50.
+
+*geometry* driver: auto-detecting
+*geometry* detected driver: pdftex
+*geometry* verbose mode - [ preamble ] result:
+* driver: pdftex
+* paper: letterpaper
+* layout: <same size as paper>
+* layoutoffset:(h,v)=(0.0pt,0.0pt)
+* modes: 
+* h-part:(L,W,R)=(72.26999pt, 505.89001pt, 36.135pt)
+* v-part:(T,H,B)=(39.74872pt, 719.08627pt, 36.135pt)
+* \paperwidth=614.295pt
+* \paperheight=794.96999pt
+* \textwidth=505.89001pt
+* \textheight=719.08627pt
+* \oddsidemargin=0.0pt
+* \evensidemargin=0.0pt
+* \topmargin=-69.52127pt
+* \headheight=12.0pt
+* \headsep=25.0pt
+* \topskip=12.0pt
+* \footskip=30.0pt
+* \marginparwidth=44.0pt
+* \marginparsep=10.0pt
+* \columnsep=10.0pt
+* \skip\footins=10.8pt plus 4.0pt minus 2.0pt
+* \hoffset=0.0pt
+* \voffset=0.0pt
+* \mag=1000
+* \@twocolumnfalse
+* \@twosidefalse
+* \@mparswitchfalse
+* \@reversemarginfalse
+* (1in=72.27pt=25.4mm, 1cm=28.453pt)
+
+(E:\Latex\miktex\tex\latex\ucs\ucsencs.def
+File: ucsencs.def 2011/01/21 Fixes to fontencodings LGR, T3
+)
+LaTeX Info: Redefining \celsius on input line 50.
+Package gensymb Info: Faking symbols for \degree and \celsius on input line 50.
+
+
+
+Package gensymb Warning: Not defining \perthousand.
+
+LaTeX Info: Redefining \ohm on input line 50.
+Package gensymb Info: Using \Omega for \ohm on input line 50.
+
+Package gensymb Warning: Not defining \micro.
+
+(E:\Latex\miktex\tex\context\base\supp-pdf.mkii
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count113
+\scratchdimen=\dimen130
+\scratchbox=\box30
+\nofMPsegments=\count114
+\nofMParguments=\count115
+\everyMPshowfont=\toks29
+\MPscratchCnt=\count116
+\MPscratchDim=\dimen131
+\MPnumerator=\count117
+\makeMPintoPDFobject=\count118
+\everyMPtoPDFconversion=\toks30
+) (E:\Latex\miktex\tex\latex\oberdiek\epstopdf-base.sty
+Package: epstopdf-base 2016/05/15 v2.6 Base part for package epstopdf
+
+(E:\Latex\miktex\tex\generic\oberdiek\infwarerr.sty
+Package: infwarerr 2016/05/16 v1.4 Providing info/warning/error messages (HO)
+)
+(E:\Latex\miktex\tex\latex\oberdiek\grfext.sty
+Package: grfext 2016/05/16 v1.2 Manage graphics extensions (HO)
+
+(E:\Latex\miktex\tex\generic\oberdiek\kvdefinekeys.sty
+Package: kvdefinekeys 2016/05/16 v1.4 Define keys (HO)
+
+(E:\Latex\miktex\tex\generic\oberdiek\ltxcmds.sty
+Package: ltxcmds 2016/05/16 v1.23 LaTeX kernel commands for general use (HO)
+)))
+(E:\Latex\miktex\tex\latex\oberdiek\kvoptions.sty
+Package: kvoptions 2016/05/16 v3.12 Key value format for package options (HO)
+
+(E:\Latex\miktex\tex\generic\oberdiek\kvsetkeys.sty
+Package: kvsetkeys 2016/05/16 v1.17 Key value parser (HO)
+
+(E:\Latex\miktex\tex\generic\oberdiek\etexcmds.sty
+Package: etexcmds 2016/05/16 v1.6 Avoid name clashes with e-TeX commands (HO)
+
+(E:\Latex\miktex\tex\generic\oberdiek\ifluatex.sty
+Package: ifluatex 2016/05/16 v1.4 Provides the ifluatex switch (HO)
+Package ifluatex Info: LuaTeX not detected.
+)
+Package etexcmds Info: Could not find \expanded.
+(etexcmds)             That can mean that you are not using pdfTeX 1.50 or
+(etexcmds)             that some package has redefined \expanded.
+(etexcmds)             In the latter case, load this package earlier.
+)))
+(E:\Latex\miktex\tex\generic\oberdiek\pdftexcmds.sty
+Package: pdftexcmds 2018/01/21 v0.26 Utility functions of pdfTeX for LuaTeX (HO
+)
+Package pdftexcmds Info: LuaTeX not detected.
+Package pdftexcmds Info: \pdf@primitive is available.
+Package pdftexcmds Info: \pdf@ifprimitive is available.
+Package pdftexcmds Info: \pdfdraftmode found.
+)
+Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
+38.
+Package grfext Info: Graphics extension search list:
+(grfext)             [.pdf,.png,.jpg,.mps,.jpeg,.jbig2,.jb2,.PDF,.PNG,.JPG,.JPE
+G,.JBIG2,.JB2,.eps]
+(grfext)             \AppendGraphicsExtensions on input line 456.
+)
+Package caption Info: Begin \AtBeginDocument code.
+Package caption Info: float package is loaded.
+Package caption Info: End \AtBeginDocument code.
+<<t2a.cmap>>
+(E:\Latex\miktex\tex\latex\ucs\uni-4.def
+File: uni-4.def 2013/05/13 UCS: Unicode data U+0400..U+04FF
+)<<ot1.cmap>><<oml.cmap>><<oms.cmap>><<omx.cmap>>
+LaTeX Font Info:    Try loading font information for U+rsfs on input line 89.
+ (E:\Latex\miktex\tex\latex\jknappen\ursfs.fd
+File: ursfs.fd 1998/03/24 rsfs font definition file (jk)
+)
+LaTeX Font Info:    Try loading font information for U+msa on input line 89.
+
+(E:\Latex\miktex\tex\latex\amsfonts\umsa.fd
+File: umsa.fd 2013/01/14 v3.01 AMS symbols A
+)
+LaTeX Font Info:    Try loading font information for U+msb on input line 89.
+
+(E:\Latex\miktex\tex\latex\amsfonts\umsb.fd
+File: umsb.fd 2013/01/14 v3.01 AMS symbols B
+)
+<images/ds_tr.jpg, id=6, 1452.42625pt x 1381.16pt>
+File: images/ds_tr.jpg Graphic file (type jpg)
+<use images/ds_tr.jpg>
+Package pdftex.def Info: images/ds_tr.jpg  used on input line 93.
+(pdftex.def)             Requested size: 290.4801pt x 276.2271pt.
+ [1
+
+{C:/Users/Putin/AppData/Local/MiKTeX/2.9/pdftex/config/pdftex.map} <./images/ds
+_tr.jpg>]
+(E:\Latex\miktex\tex\latex\ucs\uni-32.def
+File: uni-32.def 2013/05/13 UCS: Unicode data U+2000..U+20FF
+)
+<images/cubes.jpg, id=15, 306.9066pt x 204.5241pt>
+File: images/cubes.jpg Graphic file (type jpg)
+<use images/cubes.jpg>
+Package pdftex.def Info: images/cubes.jpg  used on input line 116.
+(pdftex.def)             Requested size: 354.12146pt x 236.00914pt.
+<images/compass.jpg, id=16, 431.211pt x 253.9086pt>
+File: images/compass.jpg Graphic file (type jpg)
+<use images/compass.jpg>
+Package pdftex.def Info: images/compass.jpg  used on input line 121.
+(pdftex.def)             Requested size: 404.71355pt x 238.31767pt.
+
+
+Package Fancyhdr Warning: \headheight is too small (12.0pt): 
+ Make it at least 14.49998pt.
+ We now make it that large for the rest of the document.
+ This may cause the page layout to be inconsistent, however.
+
+[1 <./images/cubes.jpg> <./images/compass.jpg>] (diamond_section.toc)
+\tf@toc=\write3
+\openout3 = `diamond_section.toc'.
+
+ [2
+
+]
+{\cyrillictext \CYRG \cyrl \cyra \cyrv \cyra } 1.
+<img/basic.jpg, id=30, 2103.86pt x 1204.5pt>
+File: img/basic.jpg Graphic file (type jpg)
+<use img/basic.jpg>
+Package pdftex.def Info: img/basic.jpg  used on input line 135.
+(pdftex.def)             Requested size: 210.39832pt x 120.45705pt.
+<img/1_anb.jpg, id=31, 1930.21124pt x 948.54375pt>
+File: img/1_anb.jpg Graphic file (type jpg)
+<use img/1_anb.jpg>
+Package pdftex.def Info: img/1_anb.jpg  used on input line 142.
+(pdftex.def)             Requested size: 347.42303pt x 170.7305pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 140--145
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 149--151
+
+ []
+
+[3
+
+ <./img/basic.jpg> <./img/1_anb.jpg>]
+<img/anbo.jpg, id=37, 2218.2875pt x 1213.53375pt>
+File: img/anbo.jpg Graphic file (type jpg)
+<use img/anbo.jpg>
+Package pdftex.def Info: img/anbo.jpg  used on input line 158.
+(pdftex.def)             Requested size: 443.64964pt x 242.70245pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 154--163
+
+ []
+
+<img/anbop.jpg, id=38, 1943.26pt x 1279.78125pt>
+File: img/anbop.jpg Graphic file (type jpg)
+<use img/anbop.jpg>
+Package pdftex.def Info: img/anbop.jpg  used on input line 165.
+(pdftex.def)             Requested size: 291.47643pt x 191.95891pt.
+[4 <./img/anbo.jpg> <./img/anbop.jpg>]
+<img/anbopQ.png, id=43, 2258.4375pt x 1656.1875pt>
+File: img/anbopQ.png Graphic file (type png)
+<use img/anbopQ.png>
+Package pdftex.def Info: img/anbopQ.png  used on input line 172.
+(pdftex.def)             Requested size: 338.751pt x 248.4174pt.
+<img/anbopqR.png, id=45, 2258.4375pt x 1656.1875pt>
+File: img/anbopqR.png Graphic file (type png)
+<use img/anbopqR.png>
+Package pdftex.def Info: img/anbopqR.png  used on input line 178.
+(pdftex.def)             Requested size: 316.1791pt x 231.86467pt.
+ [5 <./img/anbopQ.png> <./img/anbopqR.png>]
+<img/BQC.png, id=51, 2258.4375pt x 1656.1875pt>
+File: img/BQC.png Graphic file (type png)
+<use img/BQC.png>
+Package pdftex.def Info: img/BQC.png  used on input line 186.
+(pdftex.def)             Requested size: 338.751pt x 248.4174pt.
+<img/bdBR.png, id=52, 2258.4375pt x 1656.1875pt>
+File: img/bdBR.png Graphic file (type png)
+<use img/bdBR.png>
+Package pdftex.def Info: img/bdBR.png  used on input line 200.
+(pdftex.def)             Requested size: 225.85698pt x 165.62845pt.
+ [6 <./img/BQC.png> <./img/bdBR.png>]
+<img/BDC.png, id=60, 2258.4375pt x 1656.1875pt>
+File: img/BDC.png Graphic file (type png)
+<use img/BDC.png>
+Package pdftex.def Info: img/BDC.png  used on input line 207.
+(pdftex.def)             Requested size: 316.1791pt x 231.86467pt.
+ [7 <./img/BDC.png>]
+Underfull \hbox (badness 10000) in paragraph at lines 225--226
+
+ []
+
+[8]
+<images/g_x_func.jpg, id=71, 854.19125pt x 1101.11375pt>
+File: images/g_x_func.jpg Graphic file (type jpg)
+<use images/g_x_func.jpg>
+Package pdftex.def Info: images/g_x_func.jpg  used on input line 321.
+(pdftex.def)             Requested size: 126.4725pt x 163.02612pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 318--325
+
+ []
+
+[9 <./images/g_x_func.jpg>]
+<images/Table_arrow.png, id=78, 1204.5pt x 657.45625pt>
+File: images/Table_arrow.png Graphic file (type png)
+<use images/Table_arrow.png>
+Package pdftex.def Info: images/Table_arrow.png  used on input line 341.
+(pdftex.def)             Requested size: 445.18567pt x 242.99417pt.
+<images/plot.png, id=79, 707.64375pt x 334.24875pt>
+File: images/plot.png Graphic file (type png)
+<use images/plot.png>
+Package pdftex.def Info: images/plot.png  used on input line 347.
+(pdftex.def)             Requested size: 344.0015pt x 162.48785pt.
+ [10 <./images/Table_arrow.png> <./images/plot.png>]
+Underfull \hbox (badness 10000) in paragraph at lines 367--369
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 375--377
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 379--381
+
+ []
+
+<images/ds_new_def.jpg, id=85, 1863.96375pt x 1260.71pt>
+File: images/ds_new_def.jpg Graphic file (type jpg)
+<use images/ds_new_def.jpg>
+Package pdftex.def Info: images/ds_new_def.jpg  used on input line 387.
+(pdftex.def)             Requested size: 354.12146pt x 239.49892pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 383--391
+
+ []
+
+[11 <./images/ds_new_def.jpg>]
+Underfull \hbox (badness 10000) in paragraph at lines 410--413
+
+ []
+
+<images/ds_def.jpg, id=89, 1903.11pt x 1556.81625pt>
+File: images/ds_def.jpg Graphic file (type jpg)
+<use images/ds_def.jpg>
+Package pdftex.def Info: images/ds_def.jpg  used on input line 418.
+(pdftex.def)             Requested size: 303.5371pt x 248.28801pt.
+[12 <./images/ds_def.jpg>]
+<images/my_triangle.jpg, id=94, 306.4248pt x 265.7127pt>
+File: images/my_triangle.jpg Graphic file (type jpg)
+<use images/my_triangle.jpg>
+Package pdftex.def Info: images/my_triangle.jpg  used on input line 431.
+(pdftex.def)             Requested size: 354.12146pt x 307.08765pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 443--445
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 447--449
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 451--465
+
+ []
+
+[13 <./images/my_triangle.jpg>]
+LaTeX Font Info:    Try loading font information for T2A+cmtt on input line 481
+.
+ (E:\Latex\miktex\tex\latex\cyrillic\t2acmtt.fd
+File: t2acmtt.fd 2001/08/11 v1.0a Computer Modern Cyrillic font definitions
+)
+Underfull \hbox (badness 10000) in paragraph at lines 486--488
+
+ []
+
+[14]
+Overfull \hbox (45.53111pt too wide) in paragraph at lines 507--515
+\T2A/cmr/m/n/12 ние, year = 2018, howpublished = $\T2A/cmtt/m/n/12 https : / / 
+github . com / DiamondSection / Doubling-[]the-[]cube-[]Solution _
+ []
+
+[15
+
+] (diamond_section.aux) ) 
+Here is how much of TeX's memory you used:
+ 6961 strings out of 493305
+ 94943 string characters out of 3144087
+ 167910 words of memory out of 3000000
+ 10275 multiletter control sequences out of 15000+200000
+ 24266 words of font info for 63 fonts, out of 3000000 for 9000
+ 1141 hyphenation exceptions out of 8191
+ 42i,10n,43p,798b,665s stack positions out of 5000i,500n,10000p,200000b,50000s
+ <C:\Users\Putin\AppData\Local\MiKTeX\2.9\fonts\pk\ljf
+our\lh\lh-t2a\dpi600\lati1200.pk> <C:\Users\Putin\AppData\Local\MiKTeX\2.9\font
+s\pk\ljfour\lh\lh-t2a\dpi600\latt1200.pk> <C:\Users\Putin\AppData\Local\MiKTeX\
+2.9\fonts\pk\ljfour\lh\lh-t2a\dpi600\larm1000.pk> <C:\Users\Putin\AppData\Local
+\MiKTeX\2.9\fonts\pk\ljfour\lh\lh-t2a\dpi600\larm0700.pk> <C:\Users\Putin\AppDa
+ta\Local\MiKTeX\2.9\fonts\pk\ljfour\lh\lh-t2a\dpi600\larm0800.pk> <C:\Users\Put
+in\AppData\Local\MiKTeX\2.9\fonts\pk\ljfour\lh\lh-t2a\dpi600\labx1440.pk> <C:\U
+sers\Putin\AppData\Local\MiKTeX\2.9\fonts\pk\ljfour\lh\lh-t2a\dpi600\labx1200.p
+k> <C:\Users\Putin\AppData\Local\MiKTeX\2.9\fonts\pk\ljfour\lh\lh-t2a\dpi600\la
+bx1728.pk> <C:\Users\Putin\AppData\Local\MiKTeX\2.9\fonts\pk\ljfour\lh\lh-t2a\d
+pi600\larm1200.pk> <C:\Users\Putin\AppData\Local\MiKTeX\2.9\fonts\pk\ljfour\lh\
+lh-t2a\dpi600\lasl1200.pk> <C:\Users\Putin\AppData\Local\MiKTeX\2.9\fonts\pk\lj
+four\lh\lh-t2a\dpi600\larm1440.pk> <C:\Users\Putin\AppData\Local\MiKTeX\2.9\fon
+ts\pk\ljfour\lh\lh-t2a\dpi600\lacc2074.pk> <C:\Users\Putin\AppData\Local\MiKTeX
+\2.9\fonts\pk\ljfour\lh\lh-t2a\dpi600\lacc1440.pk> <C:\Users\Putin\AppData\Loca
+l\MiKTeX\2.9\fonts\pk\ljfour\lh\lh-t2a\dpi600\labx2488.pk><E:/Latex/miktex/font
+s/type1/public/amsfonts/cm/cmex10.pfb><E:/Latex/miktex/fonts/type1/public/amsfo
+nts/cm/cmmi12.pfb><E:/Latex/miktex/fonts/type1/public/amsfonts/cm/cmmi8.pfb><E:
+/Latex/miktex/fonts/type1/public/amsfonts/cm/cmr12.pfb><E:/Latex/miktex/fonts/t
+ype1/public/amsfonts/cm/cmr6.pfb><E:/Latex/miktex/fonts/type1/public/amsfonts/c
+m/cmr8.pfb><E:/Latex/miktex/fonts/type1/public/amsfonts/cm/cmsy10.pfb><E:/Latex
+/miktex/fonts/type1/public/amsfonts/cm/cmsy8.pfb><E:/Latex/miktex/fonts/type1/p
+ublic/amsfonts/symbols/msam10.pfb>
+Output written on diamond_section.pdf (16 pages, 2752255 bytes).
+PDF statistics:
+ 568 PDF objects out of 1000 (max. 8388607)
+ 0 named destinations out of 1000 (max. 500000)
+ 111 words of extra memory for PDF output out of 10000 (max. 10000000)
+
