@@ -353,20 +353,20 @@ y=0.375x^{3}-0.5x^{2}+1.25x
 \section{Определение}
 %Для любого $b_{0} > 0$
 \begin{equation}
-\sqrt[3]{2}= \underset{n\to \infty }{lim} \sqrt{1+b_{n}}
+\underset{n\to \infty }{lim} \dfrac{1}{\sqrt{1+\left(\frac{2 d_{n}}{1+d_{n}}\frac{\sqrt{3}}{2}\right)^{2}}}=\dfrac{1}{\sqrt[3]{2}}
+\end{equation}
+\vspace{30pt}
+\begin{equation}
+\sqrt[3]{2}= \underset{n\to \infty }{lim} \sqrt{1+b_{n}^{2}}
 \end{equation}
 где:   
 \begin{equation}
 b_{0} > 0,\ \hspace{15pt} b_{1}=\dfrac{1}{\sqrt{1+b_{0}^{2}}},\ \hspace{15pt} b_{2}=\frac{2\times b_{1}}{1+b_{1}}\times\frac{\sqrt{3}}{2}
 \end{equation}
 \begin{equation}
-b_{3}=\dfrac{1}{\sqrt{1+b_{2}^{2}}},\ \hspace{15pt} b_{4}=\frac{2\times b_{3}}{1+b_{3}}\times\frac{\sqrt{3}}{2} \ ...
-\end{equation}
-\begin{equation}
 b_{n+1}=\dfrac{1}{\sqrt{1+b_{n}^{2}}},\ \hspace{15pt} b_{n+2}=\frac{2\times b_{n+1}}{1+b_{n+1}}\times\frac{\sqrt{3}}{2}
 \end{equation}
 \\
-
 \begin{center}
 	Таким образом в пределе мы получим (см. Рис. \ref{fig:definition}) следующее:
 \end{center}
@@ -387,16 +387,15 @@ s=\dfrac{1}{d}=\sqrt[3]{2}
 	\includegraphics[width=0.7\linewidth]{images/ds_new_def.jpg}
 	\caption{}
 	\label{fig:definition}
-\end{figure} \\
-
-\begin{center}
+\end{figure}
+%\begin{center}
 	%\large{Diamond section of  $60 \degree$ angle = $\sqrt[3]{2}$ }
 %\\
 %\begin{equation}
 %$\sqrt[3]{2}=\lim_{ n \to \infty } \sqrt{1^{2}+b_{n}^{2}}$; $b_{1}>0$; 
 %\end{equation} 
 %$\sqrt[3]{2}=\lim_{ n \to \infty\frac{1}s_{n}}$
-\end{center}
+%\end{center}
 \newpage
  
 \section{Заключение}

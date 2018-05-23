@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.19 (MiKTeX 2.9.6630 64-bit) (preloaded format=pdflatex 2018.4.6)  4 MAY 2018 00:02
+This is pdfTeX, Version 3.14159265-2.6-1.40.19 (MiKTeX 2.9.6630 64-bit) (preloaded format=pdflatex 2018.4.6)  23 MAY 2018 06:15
 entering extended mode
 **./diamond_section.tex
 (diamond_section.tex
@@ -560,7 +560,7 @@ File: images/plot.png Graphic file (type png)
 Package pdftex.def Info: images/plot.png  used on input line 347.
 (pdftex.def)             Requested size: 344.0015pt x 162.48785pt.
  [10 <./images/Table_arrow.png> <./images/plot.png>]
-Underfull \hbox (badness 10000) in paragraph at lines 367--369
+Underfull \hbox (badness 10000) in paragraph at lines 368--370
 
  []
 
@@ -579,54 +579,49 @@ File: images/ds_new_def.jpg Graphic file (type jpg)
 <use images/ds_new_def.jpg>
 Package pdftex.def Info: images/ds_new_def.jpg  used on input line 387.
 (pdftex.def)             Requested size: 354.12146pt x 239.49892pt.
-
-Underfull \hbox (badness 10000) in paragraph at lines 383--391
-
- []
-
 [11 <./images/ds_new_def.jpg>]
-Underfull \hbox (badness 10000) in paragraph at lines 410--413
+Underfull \hbox (badness 10000) in paragraph at lines 409--412
 
  []
 
-<images/ds_def.jpg, id=89, 1903.11pt x 1556.81625pt>
+<images/ds_def.jpg, id=90, 1903.11pt x 1556.81625pt>
 File: images/ds_def.jpg Graphic file (type jpg)
 <use images/ds_def.jpg>
-Package pdftex.def Info: images/ds_def.jpg  used on input line 418.
+Package pdftex.def Info: images/ds_def.jpg  used on input line 417.
 (pdftex.def)             Requested size: 303.5371pt x 248.28801pt.
 [12 <./images/ds_def.jpg>]
-<images/my_triangle.jpg, id=94, 306.4248pt x 265.7127pt>
+<images/my_triangle.jpg, id=95, 306.4248pt x 265.7127pt>
 File: images/my_triangle.jpg Graphic file (type jpg)
 <use images/my_triangle.jpg>
-Package pdftex.def Info: images/my_triangle.jpg  used on input line 431.
+Package pdftex.def Info: images/my_triangle.jpg  used on input line 430.
 (pdftex.def)             Requested size: 354.12146pt x 307.08765pt.
 
-Underfull \hbox (badness 10000) in paragraph at lines 443--445
+Underfull \hbox (badness 10000) in paragraph at lines 442--444
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 447--449
+Underfull \hbox (badness 10000) in paragraph at lines 446--448
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 451--465
+Underfull \hbox (badness 10000) in paragraph at lines 450--464
 
  []
 
 [13 <./images/my_triangle.jpg>]
-LaTeX Font Info:    Try loading font information for T2A+cmtt on input line 481
+LaTeX Font Info:    Try loading font information for T2A+cmtt on input line 480
 .
  (E:\Latex\miktex\tex\latex\cyrillic\t2acmtt.fd
 File: t2acmtt.fd 2001/08/11 v1.0a Computer Modern Cyrillic font definitions
 )
-Underfull \hbox (badness 10000) in paragraph at lines 486--488
+Underfull \hbox (badness 10000) in paragraph at lines 485--487
 
  []
 
 [14]
-Overfull \hbox (45.53111pt too wide) in paragraph at lines 507--515
+Overfull \hbox (45.53111pt too wide) in paragraph at lines 506--514
 \T2A/cmr/m/n/12 ние, year = 2018, howpublished = $\T2A/cmtt/m/n/12 https : / / 
 github . com / DiamondSection / Doubling-[]the-[]cube-[]Solution _
  []
@@ -659,15 +654,16 @@ ts\pk\ljfour\lh\lh-t2a\dpi600\lacc2074.pk> <C:\Users\Putin\AppData\Local\MiKTeX
 \2.9\fonts\pk\ljfour\lh\lh-t2a\dpi600\lacc1440.pk> <C:\Users\Putin\AppData\Loca
 l\MiKTeX\2.9\fonts\pk\ljfour\lh\lh-t2a\dpi600\labx2488.pk><E:/Latex/miktex/font
 s/type1/public/amsfonts/cm/cmex10.pfb><E:/Latex/miktex/fonts/type1/public/amsfo
-nts/cm/cmmi12.pfb><E:/Latex/miktex/fonts/type1/public/amsfonts/cm/cmmi8.pfb><E:
-/Latex/miktex/fonts/type1/public/amsfonts/cm/cmr12.pfb><E:/Latex/miktex/fonts/t
-ype1/public/amsfonts/cm/cmr6.pfb><E:/Latex/miktex/fonts/type1/public/amsfonts/c
-m/cmr8.pfb><E:/Latex/miktex/fonts/type1/public/amsfonts/cm/cmsy10.pfb><E:/Latex
-/miktex/fonts/type1/public/amsfonts/cm/cmsy8.pfb><E:/Latex/miktex/fonts/type1/p
-ublic/amsfonts/symbols/msam10.pfb>
-Output written on diamond_section.pdf (16 pages, 2751212 bytes).
+nts/cm/cmmi12.pfb><E:/Latex/miktex/fonts/type1/public/amsfonts/cm/cmmi6.pfb><E:
+/Latex/miktex/fonts/type1/public/amsfonts/cm/cmmi8.pfb><E:/Latex/miktex/fonts/t
+ype1/public/amsfonts/cm/cmr12.pfb><E:/Latex/miktex/fonts/type1/public/amsfonts/
+cm/cmr6.pfb><E:/Latex/miktex/fonts/type1/public/amsfonts/cm/cmr8.pfb><E:/Latex/
+miktex/fonts/type1/public/amsfonts/cm/cmsy10.pfb><E:/Latex/miktex/fonts/type1/p
+ublic/amsfonts/cm/cmsy8.pfb><E:/Latex/miktex/fonts/type1/public/amsfonts/symbol
+s/msam10.pfb>
+Output written on diamond_section.pdf (16 pages, 2761102 bytes).
 PDF statistics:
- 565 PDF objects out of 1000 (max. 8388607)
+ 569 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
  111 words of extra memory for PDF output out of 10000 (max. 10000000)
 
